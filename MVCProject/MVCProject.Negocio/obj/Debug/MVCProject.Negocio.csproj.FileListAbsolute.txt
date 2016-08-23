@@ -1,0 +1,5 @@
+C:\Users\mauriciojunior\Desktop\MVCProject\MVCProject.Negocio\bin\Debug\MVCProject.Negocio.dll
+C:\Users\mauriciojunior\Desktop\MVCProject\MVCProject.Negocio\bin\Debug\MVCProject.Negocio.pdb
+C:\Users\mauriciojunior\Desktop\MVCProject\MVCProject.Negocio\obj\Debug\MVCProject.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\mauriciojunior\Desktop\MVCProject\MVCProject.Negocio\obj\Debug\MVCProject.Negocio.dll
+C:\Users\mauriciojunior\Desktop\MVCProject\MVCProject.Negocio\obj\Debug\MVCProject.Negocio.pdb
